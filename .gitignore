@@ -1,0 +1,8 @@
+/vendor
+composer
+.idea
+.env
+log
+.phpunit.cache
+redisdata
+/var
